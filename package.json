@@ -1,9 +1,9 @@
 {
   "name": "ds-types",
-  "version": "0.1.",
+  "version": "0.1.0",
   "description": "TypeScript types for DroidScript",
-  "main": "index.js",
-  "types": "./types/index.d.ts",
+  "main": "",
+  "types": "index.d.ts",
   "repository": "https://github.com/EGM/ds-types",
   "author": "John LaDuke <themonkeylikescheese@gmail.com>",
   "license": "MIT",

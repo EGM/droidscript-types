@@ -1195,3 +1195,4 @@ export declare interface App {
     CreateGLView(width?: number, height?: number, options?: string): void;
     OpenDatabase(name: string): DSDatabase;
 }
+export declare var app: App;
